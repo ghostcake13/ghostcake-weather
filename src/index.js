@@ -11,5 +11,9 @@ root.render(
       <h1>Weather App</h1>
       <Search />
     </div>
+
+    <a href="https://github.com/ghostcake13/ghostcake-weather">
+      This project is open sourced on Github
+    </a>
   </StrictMode>
 );
